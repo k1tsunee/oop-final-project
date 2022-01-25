@@ -20,7 +20,7 @@ public class Suwako : MonoBehaviour{
 
     void MoveTowardsDefaultPositionIfNotThere(){
         if(!isInDefaultPosition){
-            Vector3 targetPosition = new Vector3(0, 3.75f, 0);
+            Vector3 targetPosition = new Vector3(0, 3.1f, 0);
             transform.position = Vector3.MoveTowards(transform.position, targetPosition, (3.0f * Time.deltaTime));
         }
     }
