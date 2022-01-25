@@ -19,6 +19,7 @@ If you have any suggestion for the code, please feel free to contact me and give
 - Music loop base code by [Andrew Mushel](https://andrewmushel.com/articles/looping-music-in-unity/)
 - Scrolling Background base code by [Caio Flávio](https://www.youtube.com/watch?v=pqMU-ocH2Po)
 - Health Bar code by [Wayra Codes](https://www.youtube.com/watch?v=NE5cAlCRgzo)
+- JSON base code by [Kee Gamedev](https://www.youtube.com/watch?v=ii31ObaAaJo)
 
 ## License
 
